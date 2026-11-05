@@ -13,6 +13,12 @@ No GitHub account is needed to open these public prompt links.
 
 ## Health Compass
 
+[![Health Compass infographic with Biscuit and a scannable prompt QR](health-compass/Health_Compass_Biscuit_QR.png)](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Prompt.txt)
+
+**Click the infographic above or scan its QR code to open the full prompt.**
+
+[Download the infographic](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Biscuit_QR.png) · [Health Compass files and links](health-compass/README.md)
+
 Make practical decisions about movement, meals, recovery, daily check-ins, weekly reviews, and resetting after setbacks.
 
 ### [Open and copy the Health Compass prompt](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Prompt.txt)
