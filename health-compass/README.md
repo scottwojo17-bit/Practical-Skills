@@ -1,18 +1,13 @@
 # Health Compass
 
-[**CLICK HERE TO OPEN THE FULL PROMPT**](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Prompt.txt)
+[**Open Health Compass**](https://health-compass-launch.scottwojo17.chatgpt.site)
 
-Copy the prompt into a new AI chat. No GitHub account is needed.
+Choose **Open in ChatGPT**, **Open in Claude**, or **Copy Prompt**. Review the prompt and press Send. The page also offers a TXT download and supported desktop-app links. Browser/app prefill can vary; paste the copied prompt if needed.
 
-[![Click or scan the Health Compass infographic to open the full prompt](Health_Compass_Biscuit_QR.png)](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Prompt.txt)
+[![Click or scan to open Health Compass](../qr/health-compass.svg)](https://health-compass-launch.scottwojo17.chatgpt.site)
 
-## Click or scan
+[View the original Biscuit infographic](Health_Compass_Biscuit_QR.png) · [Open prompt text](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Prompt.txt)
 
-- [Open and copy the complete prompt](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Prompt.txt)
-- [Download the infographic](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/health-compass/Health_Compass_Biscuit_QR.png)
-- [Open the QR code](../qr/health-compass.svg)
-- [Return to all Practical Skills](../README.md)
+The original infographic is preserved. Its embedded QR still opens prompt text; the standalone QR above opens the launch page.
 
-The infographic is clickable on this page. A downloaded PNG supports scanning its QR; PNG files do not contain clickable hyperlinks. Both paths open the same full prompt.
-
-General habit support, not medical care.
+General habit support, not medical care. This starts a conversation and does not install a permanent skill. No personal health data is collected by the launch page.
