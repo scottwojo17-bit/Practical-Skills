@@ -9,6 +9,7 @@ No GitHub account is needed to open these public prompt links.
 | Practical Skill | Open the full prompt |
 | --- | --- |
 | Health Compass | [**CLICK TO OPEN HEALTH COMPASS**](https://health-compass-launch.scottwojo17.chatgpt.site) |
+| Resume Builder | [**DOWNLOAD RESUME BUILDER PROMPT**](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/resume-builder/Resume_Builder_Prompt.docx) |
 | Commitment and Capacity | [**CLICK TO OPEN COMMITMENT AND CAPACITY**](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/prompts/commitment-capacity.txt) |
 
 ## Health Compass
@@ -37,6 +38,16 @@ Review a commitment or your full workload. Identify tradeoffs and decide what to
 
 [Open QR image](qr/commitment-capacity.svg)
 
+## Resume Builder
+
+[![Resume Builder infographic with American theme and verified QR](resume-builder/Resume_Builder_Infographic.png)](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/resume-builder/Resume_Builder_Prompt.docx)
+
+Choose Veteran, Transitioning Service Member, Military Spouse, or Other (specify). Upload a readable resume or work-history document in your own AI chat, clarify the facts, and build an accurate resume.
+
+[Download the Word prompt](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/resume-builder/Resume_Builder_Prompt.docx) · [Open copyable prompt](https://raw.githubusercontent.com/scottwojo17-bit/Practical-Skills/main/prompts/resume-builder.txt)
+
+The QR opens the Word prompt directly. No GitHub account is needed. Upload personal documents only in your own chat, never to this public repository. A prompt guides a conversation; it does not install a skill automatically.
+
 ## Using these prompts
 
 Prompts provide reusable instructions for a conversation. They do not automatically install skills, monitor activity, send messages, or change calendars. Health Compass provides general habit support, not medical care.
@@ -45,4 +56,4 @@ Prompts provide reusable instructions for a conversation. They do not automatica
 
 Each listed skill must have a complete public prompt, a direct clickable text link, and a matching clickable QR image. Keep these destinations aligned when updating a prompt. The standalone Health Compass QR was decoded against the launch-page URL at full size and 300 pixels on November 5, 2026. Launch links include the complete public prompt. Prefill across external apps has not been independently verified; Copy Prompt is the fallback.
 
-This index currently includes the two prompts present in this repository.
+This index currently includes three public prompts. Resume Builder was added November 6, 2026. Its Word download was verified without authentication and its final infographic QR decoded to the same destination.
